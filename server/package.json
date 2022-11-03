@@ -1,0 +1,35 @@
+{
+  "name": "voookha.com",
+  "version": "1.0.0",
+  "description": "subscription based food selling company Voookha.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voookha/voookha.git"
+  },
+  "keywords": [
+    "voookha"
+  ],
+  "author": "Koushik Mandal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voookha/voookha/issues"
+  },
+  "homepage": "https://github.com/voookha/voookha#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1234.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.5",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "yarn": "^1.22.19"
+  }
+}

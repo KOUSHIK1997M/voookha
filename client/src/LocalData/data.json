@@ -1,0 +1,109 @@
+{
+    "Slideitems": [
+        {
+            "title": "Random Name #1",
+            "description": "Probably the most random thing you have ever seen!",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVqVAWizZJ0yh_t1fp5gkOcZKDlsMKZi7qgA&usqp=CAU"
+        },
+        {
+            "title": "Random Name #2",
+            "description": "Probably the most random thing you have ever seen!",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQepv5__UAVqEYLchOXGFRDnF4aKdmbaIuAag&usqp=CAU"
+        },
+        {
+            "title": "Random Name #3",
+            "description": "Probably the most random thing you have ever seen!",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZ8fX44kK1uTMKSo1FQrXXYig_bOGw0QyWQ&usqp=CAU"
+        },
+        {
+            "title": "Random Name #4",
+            "description": "Probably the most random thing you have ever seen!",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMod34HNgTb8AsKthzEziwrqk5Upn-U8rMUA&usqp=CAU"
+        },
+        {
+            "title": "Random Name #5",
+            "description": "Probably the most random thing you have ever seen!",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBpemO-QbMWGBL6d0Q3kBkE9VgXmH5pVJKA&usqp=CAU"
+        },
+        {
+            "title": "Random Name #6",
+            "description": "Probably the most random thing you have ever seen!",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_hwsEbHXEXCBo6LG4HihZLVYxSlieG75kw&usqp=CAU"
+        }
+    ],
+    "offers": [
+        {
+            "image": "https://sandbox.bookingcore.org/uploads/demo/general/image_home_mix_1.jpg",
+            "icon": "HiTag",
+            "hade": "Special Offers",
+            "pera": "Find Your Perfect Hotels Get the best prices on 20,000+ "
+        },
+        {
+            "image": "https://sandbox.bookingcore.org/uploads/demo/general/image_home_mix_2.jpg",
+            "icon": "HiOutlineInbox",
+            "hade": "Newsletters",
+            "pera": "Join for free and get our tailored newsletters full of hot travel deals."
+        },
+        {
+            "image": "https://sandbox.bookingcore.org/uploads/demo/general/image_home_mix_3.jpg",
+            "icon": "HiCursorClick",
+            "hade": "Travel Tips",
+            "pera": "Tips from our travel experts to make your next trip even better."
+        }
+    ],
+    "pakeges":[
+        {
+            "hade":"07  Day subscription",
+            "image": "https://assets3.thrillist.com/v1/image/2932591/1200x600/scale;",
+            "revies":"250",
+            "reting": "4",
+            "price":"750",
+            "link":"/"
+        },
+        {
+            "hade":"15 Day subscription",
+            "image": "https://assets3.thrillist.com/v1/image/2932591/1200x600/scale;",
+            "revies":"650",
+            "reting": "4",
+            "price":"1500",
+            "link":"/"
+        },
+        {
+            "hade":"30 Day subscription",
+            "image": "https://assets3.thrillist.com/v1/image/2932591/1200x600/scale;",
+            "revies":"485",
+            "reting": "4",
+            "price":"2250",
+            "link":"/"
+        }
+    ],
+    "foonav":[
+        {
+            "hade":"COMPANY",
+            "hade1":"About Us",
+            "link1": "/",
+            "hade2":"Hotel Rooms",
+            "link2": "/",
+            "hade3":"Contact Us",
+            "link3": "/"
+        },
+        {
+            "hade":"SUPPORT",
+            "hade1":"Account",
+            "link1": "/",
+            "hade2":"Legal",
+            "link2": "/",
+            "hade3":"Privacy Policy",
+            "link3": "/"
+        },
+        {
+            "hade":"More information",
+            "hade1":"First blog",
+            "link1": "/",
+            "hade2":"First blog",
+            "link2": "/",
+            "hade3":"First blog",
+            "link3": "/"
+        }
+    ]
+}
